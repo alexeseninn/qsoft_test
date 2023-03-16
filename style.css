@@ -164,6 +164,10 @@ body{
         justify-content: center;
         align-items: center;
     }
+    .base__partner img{
+        max-height: 120px;
+        max-width: 287px;
+    }
     .base__partner:nth-child(4n) {
         margin-right: 0;
         float: right;
@@ -367,6 +371,8 @@ body{
         cursor: pointer;
     }
     .base__partner img{
+        max-height: 118px;
+        max-width: 227px;
         scale: 0.772727;
     }
     .base__right-side{
@@ -532,6 +538,8 @@ body{
         cursor: pointer;
     }
     .base__partner img{
+        max-height: 140px;
+        max-width: 330px;
         scale: 0.772727;
     }
     .base__right-side{
